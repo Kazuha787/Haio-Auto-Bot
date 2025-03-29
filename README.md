@@ -10,8 +10,8 @@ Earn $HXP, rise up, level up, and unlock exclusive $HAiO!
 ![Screenshot_2025-03-29-05-15-22-25_d4b821f22c36211daa9077338f9854d0](https://github.com/user-attachments/assets/ea662bd8-d018-44f3-9e95-77d32dbfb712)
 ## 📢 Join Our Community  
 
-- # Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [Haio](https://github.com/Kazuha787/Haio-Auto-Bot.git)
+- # Telegram Channel: [Channel](https://t.me/Offical_Im_kazuha)
+# GitHub Repository:  [Haio](https://github.com/Kazuha787/Haio-Auto-Bot.git)
 
 ## 🎯 Features
 
